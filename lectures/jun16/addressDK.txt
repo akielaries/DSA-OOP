@@ -1,0 +1,32 @@
+Name: Mario Mario
+Phone Number: 3333333333
+Address: Mushroom Kingdom
+------------
+Name: Big Bird
+Phone Number: 1111111111
+Address: Sesame Street
+------------
+Name: Santa Clause
+Phone Number: 7777777777
+Address: North Pole
+------------
+Name: Dracula
+Phone Number: 0000000000
+Address: Transylvania
+------------
+Name: Sherlock Holmes
+Phone Number: 1123581321
+Address: 221B Baker Street
+------------
+Name: Dunkey Kung
+Phone Number:Ban-anas
+Address: Island
+------------
+Name: Wedding Marth
+Phone Number: 4204206969
+Address: Pokemon Stadium
+------------
+Name: Master Chief
+Phone Number: cort-ana
+Address: Halo
+------------
