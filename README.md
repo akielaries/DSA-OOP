@@ -1,2 +1,2 @@
-Repo for CSC205 Data Structure, Algorithms, & OOP in
-Java, my least favourite programming languge.
+Repo displaying my knowledge of Data Structure, Algorithms, & OOP code in
+Java, my least favourite programming languge. 
